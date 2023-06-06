@@ -1,2 +1,2 @@
 readme for 0x03-git
-README Updated From Github
+README updated from github
